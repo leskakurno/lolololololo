@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "lolo_seasons:time_fragment"
+    },
+    {
+      "item": "lolo_seasons:time_fragment"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "result": {
+    "id": "lolo_seasons:archey_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "lolo_seasons:archey_ingot"
+    }
+  },
+  "result": {
+    "id": "lolo_seasons:archey_block",
+    "count": 1
+  }
+}

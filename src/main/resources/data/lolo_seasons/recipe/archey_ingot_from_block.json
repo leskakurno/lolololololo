@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "lolo_seasons:archey_block"
+    }
+  ],
+  "result": {
+    "id": "lolo_seasons:archey_ingot",
+    "count": 9
+  }
+}

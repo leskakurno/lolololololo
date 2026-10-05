@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " S ",
+    " A ",
+    " A "
+  ],
+  "key": {
+    "S": {
+      "item": "lolo_seasons:spark_shard"
+    },
+    "A": {
+      "item": "lolo_seasons:archey_ingot"
+    }
+  },
+  "result": {
+    "id": "lolo_seasons:spark_staff",
+    "count": 1
+  }
+}

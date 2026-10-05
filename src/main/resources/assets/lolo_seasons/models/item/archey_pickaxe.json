@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "lolo_seasons:item/archey_pickaxe"
+  }
+}
